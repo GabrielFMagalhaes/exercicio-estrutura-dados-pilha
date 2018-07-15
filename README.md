@@ -8,8 +8,8 @@ Para tanto, são necessárias algumas funções especiais da linguagem C:
 * isdigit(): verifica se um caracter é um símbolo numérico (0,1,..9).
 * atof(): converte uma string em número real. 
 
-- Fluxograma
+Fluxograma
 
 <p align="center">
-    <img alt="fluxogramaPilha" src="images/fluxograma-pilha.png" width="600" />
+    <img alt="fluxogramaPilha" src="images/fluxograma.png" width="600" />
 </p>
